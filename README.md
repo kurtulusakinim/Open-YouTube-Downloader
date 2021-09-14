@@ -1,6 +1,7 @@
 # Open YouTube Downloader
 [![Release](https://img.shields.io/github/v/release/kurtulusakinim/Open-YouTube-Downloader?color=red)](github.com/kurtulusakinim/Open-YouTube-Downloader/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/kurtulusakinim/Open-YouTube-Downloader/total)](github.com/kurtulusakinim/Open-YouTube-Downloader/releases)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kurtulusakinim.Open-YouTube-Downloader)
 
 Open YouTube Downloader is completely open source and also multi-thread video downloader. It is developed with Python, Qt and Pytube library. You can copy-paste URL of any video and download it directly to a quality of your choice.
 
